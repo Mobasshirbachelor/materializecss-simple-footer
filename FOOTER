@@ -1,0 +1,29 @@
+  <footer class="page-footer">
+    <div class="container">
+      <div class="row">
+        <div class="col l6 s12">
+          <h5 class="white-text">Some Title</h5>
+          <p class="grey-text text-lighten-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        </div>
+        <div class="col l2 offset-l2 s6">
+          <h6>About</h6>
+          <ul>
+            <li><a href="" class="grey-text text-lighten-3">Help</a></li>
+            <li><a href="" class="grey-text text-lighten-3">Contact</a></li>
+            <li><a href="" class="grey-text text-lighten-3">Suggestions</a></li>
+          </ul>
+        </div>
+        <div class="col l2 s6">
+          <h6>Developer</h6>
+          <ul>
+            <li><a href="" class="grey-text text-lighten-3">Source</a></li>
+            <li><a href="" class="grey-text text-lighten-3">Contribute</a></li>
+            <li><a href="" class="grey-text text-lighten-3">API Docs</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="footer-copyright">
+      <div class="container">Made by <a href="https://www.instagram.com/itsmbstar/">MBSTAR </a></div>
+    </div>
+  </footer>
